@@ -1,0 +1,19 @@
+{
+  "name": "yazhouzou-loadjs",
+  "version": "1.0.0",
+  "author": "yazhouzou",
+  "description": "A function for loading JS files.",
+  "main": "loadJS.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yazhouzou/loadJS.git"
+  },
+  "keywords": [
+    "load js",
+    "npm"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yazhouzou/loadJS/issues"
+  }
+}
