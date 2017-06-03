@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "author": "yazhouzou",
   "description": "A function for loading JS files.",
-  "main": "loadJS.js",
+  "main": "loadjs.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yazhouzou/loadJS.git"
+    "url": "https://github.com/yazhouzou/loadjs.git"
   },
   "keywords": [
     "load js",
@@ -14,6 +14,6 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yazhouzou/loadJS/issues"
+    "url": "https://github.com/yazhouzou/loadjs/issues"
   }
 }
