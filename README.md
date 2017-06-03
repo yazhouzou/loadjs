@@ -2,15 +2,15 @@
 
 A function for loading JS files
 
-<div align="center">
-	<a href="https://npmjs.com/package/yazhouzou-loadjs">
-		<img src="https://img.shields.io/npm/dm/yazhouzou-loadjs.svg">
-	</a>
+<div>
+  <a href="https://npmjs.com/package/yazhouzou-loadjs">
+    <img src="https://img.shields.io/npm/dm/yazhouzou-loadjs.svg">
+  </a>
 </div>
 
 ## Install
 
-`npm install yazhouzou/loadJS --save`
+`npm install yazhouzou-loadjs --save`
 
 ## Usage
 
