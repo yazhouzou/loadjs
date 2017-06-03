@@ -8,7 +8,6 @@ export default function loadJS(src, success, error) {
 	
 	script.async = true
 	script.src = src
-	
 	script.onload = script.onerror = function (e) {
 		if (e.type == 'load')
 			success && success()
@@ -16,6 +15,7 @@ export default function loadJS(src, success, error) {
 			error && error()
 		
 		head.removeChild(this)
+		// clear out listeners
 		this.onload = this.onerror = null
 	}
 	
