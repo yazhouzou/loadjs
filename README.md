@@ -17,11 +17,11 @@ A function for loading JS files
 1. Load a js file
 
 ```javascript
-import loadJS from 'loadJS'
+import loadJS from 'yazhouzou-loadjs'
 
 loadJS(
   '/path/to/file.js',
   function () { /* file.js loaded */ },
   function () { /* file.js failed */ }
-);
+)
 ```
